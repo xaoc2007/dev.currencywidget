@@ -1,0 +1,15 @@
+{
+  "name": "dev/currencywidget",
+  "license": "MIT",
+  "type": "bitrix-d7-module",
+  "description": "Mодуль импорта курсов валют для 1С-Битрикс + компонент вывода курса конкретной валюты.",
+  "keywords": [
+    "bitrix",
+    "import currencies",
+    "currency widget"
+  ],
+  "require": {
+    "php": ">=5.6",
+    "composer/installers": "1.*"
+  }
+}

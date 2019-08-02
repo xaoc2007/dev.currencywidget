@@ -1,0 +1,2 @@
+<?php
+$MESS['DEV_CURRENCYWIDGET_IMPORT_CURRENCY_LOAD_MODULE_ERROR'] = 'Ошибка загрузки модуля';
